@@ -7,7 +7,7 @@ Sources for regular covers:
 
 https://www.mobygames.com/
 
-https://psxdatacenter.com/ (psx screenshots & covers)
+https://psxdatacenter.com/ (psx/ps2 screenshots & covers)
 
 https://ogdb.eu/
 
