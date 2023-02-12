@@ -3,11 +3,11 @@ Custom screenshots and covers and regular covers, made for the [Quickplay](https
 
 Europe/German with pal/usk for multilanguage redump/goodset naming (mostly).
 
-Sources:
+Sources for regular covers:
 
 https://www.mobygames.com/
 
-https://psxdatacenter.com/
+https://psxdatacenter.com/ (psx screenshots & covers)
 
 https://ogdb.eu/
 
