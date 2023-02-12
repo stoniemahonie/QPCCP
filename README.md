@@ -1,5 +1,5 @@
 # QPCCP
-Custom screenshots and covers, made for the [Quickplay](https://quickplay.sourceforge.net/) Frontend.
+Custom screenshots and covers and regular covers, made for the [Quickplay](https://quickplay.sourceforge.net/) Frontend.
 
 Europe/German with pal/usk for multilanguage redump/goodset naming (mostly).
 
