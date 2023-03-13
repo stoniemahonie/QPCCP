@@ -20,3 +20,5 @@ https://www.thecoverproject.net/
 https://www.covercentury.com/
 
 ebay
+
+https://waifu2x.udp.jp/api (for upscaling)
